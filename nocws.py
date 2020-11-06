@@ -1,10 +1,10 @@
 # Created by Mehdi Rezzag Hebla
 # A set of functions to automate data collection from
 # National Olympic Committees' websites.
+from requests_html import HTMLSession
 import pprint
 import webbrowser
 import csv
-from requests_html import HTMLSession
 import json
 import re
 from copy import deepcopy
