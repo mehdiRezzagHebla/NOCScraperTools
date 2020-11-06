@@ -4,5 +4,5 @@ A set of tools used in data collection from Official National Olympic Committees
 # Prerequisites:
 * requests-html package
 
-This A set of functions used to collect data ranging from HTML code to Regex pattern matching to collect emails.
+This a set of functions used to collect data ranging from HTML code to Regex pattern matching to collect emails.
 
